@@ -14,16 +14,18 @@
 
 <h2 id="design-patterns">Design Patterns</h2>
 
-| Pattern | Difficulty | Language | Type | State | Source Code | Documentation |
-| :-------------: |  :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-| Singleton | Fundamentals | Typescript | Creational | Done ✅ | [View](https://github.com/KillianFrappartDev/SoftwareCraftmanship/blob/master/DesignPatterns/src/singleton.ts) | [Read](https://sheer-fan-063.notion.site/Design-Patterns-bd1059bbdab84d09b0c4e66f69cf7541)
-| Builder | Fundamentals | Typescript | Creational | Done ✅ | [View](https://github.com/KillianFrappartDev/SoftwareCraftmanship/blob/master/DesignPatterns/src/builder.ts) | [Read](https://sheer-fan-063.notion.site/Design-Patterns-bd1059bbdab84d09b0c4e66f69cf7541)
-| Factory | Fundamentals | Typescript | Creational | Done ✅ | [View](https://github.com/KillianFrappartDev/SoftwareCraftmanship/blob/master/DesignPatterns/src/factory.ts) | [Read](https://sheer-fan-063.notion.site/Design-Patterns-bd1059bbdab84d09b0c4e66f69cf7541)
-| Observer | Intermediate | Typescript | Behavioral | WiP 🚧 | [View](https://github.com/KillianFrappartDev/SoftwareCraftmanship/blob/master/DesignPatterns/src/observer.ts) | [Read](https://sheer-fan-063.notion.site/Design-Patterns-bd1059bbdab84d09b0c4e66f69cf7541)
+| Pattern | Difficulty | Language | Type | State | Source Code |
+| :-------------: |  :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| Singleton | Fundamentals | Typescript | Creational | Done ✅ | [View](https://github.com/KillianFrappartDev/SoftwareCraftmanship/blob/master/DesignPatterns/src/singleton.ts) |
+| Builder | Fundamentals | Typescript | Creational | Done ✅ | [View](https://github.com/KillianFrappartDev/SoftwareCraftmanship/blob/master/DesignPatterns/src/builder.ts) |
+| Factory | Fundamentals | Typescript | Creational | Done ✅ | [View](https://github.com/KillianFrappartDev/SoftwareCraftmanship/blob/master/DesignPatterns/src/factory.ts) |
+| Observer | Intermediate | Typescript | Behavioral | WiP 🚧 | [View](https://github.com/KillianFrappartDev/SoftwareCraftmanship/blob/master/DesignPatterns/src/observer.ts) |
 
 
 <h2 id="data-structures">Data Structures</h2>
-Work in progress...
+| Pattern | Difficulty | Language | Type | State | Source Code |
+| :-------------: |  :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| Singleton | Fundamentals | Typescript | Creational | WiP 🚧 | [View](https://github.com/KillianFrappartDev/SoftwareCraftmanship/blob/master/DesignPatterns/src/singleton.ts) |
 
 
 <h2 id="algorithms">Algorithms</h2>
@@ -38,4 +40,6 @@ Work in progress...
 
 
 <h2 id="solid">S.O.L.I.D</h2>
-Work in progress...
+| Pattern | Difficulty | Language | Type | State | Source Code |
+| :-------------: |  :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| SRP | Fundamentals | Typescript | Creational | WiP 🚧 | [View](https://github.com/KillianFrappartDev/SoftwareCraftmanship/blob/master/DesignPatterns/src/singleton.ts) |
