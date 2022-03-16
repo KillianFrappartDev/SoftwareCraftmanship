@@ -23,6 +23,7 @@
 
 
 <h2 id="data-structures">Data Structures</h2>
+
 | Pattern | Difficulty | Language | Type | State | Source Code |
 | :-------------: |  :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | Singleton | Fundamentals | Typescript | Creational | WiP 🚧 | [View](https://github.com/KillianFrappartDev/SoftwareCraftmanship/blob/master/DesignPatterns/src/singleton.ts) |
@@ -40,6 +41,7 @@
 
 
 <h2 id="solid">S.O.L.I.D</h2>
+
 | Pattern | Difficulty | Language | Type | State | Source Code |
 | :-------------: |  :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | SRP | Fundamentals | Typescript | Creational | WiP 🚧 | [View](https://github.com/KillianFrappartDev/SoftwareCraftmanship/blob/master/DesignPatterns/src/singleton.ts) |
