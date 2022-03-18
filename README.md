@@ -37,7 +37,8 @@
 | Euclid GCD | Fundamentals | Typescript | O(log n) | Done ✅ | [view](https://github.com/KillianFrappartDev/SoftwareCraftmanship/blob/master/Algorithms/euclidGCD.ts) |
 | Factorial | Fundamentals | Typescript | O(n) | Done ✅ | [view](https://github.com/KillianFrappartDev/SoftwareCraftmanship/blob/master/Algorithms/factorial.ts) |
 | Fibonacci | Fundamentals | Typescript | O(n) | Done ✅ | [view](https://github.com/KillianFrappartDev/Algorithms/blob/master/Fibonacci/src.ts) |
-| is Power of X | Fundamentals | Typescript | O(n) | Done ✅ | [view](https://github.com/KillianFrappartDev/SoftwareCraftmanship/blob/master/Algorithms/isPower.ts) |
+| Is Power of | Fundamentals | Typescript | O(n) | Done ✅ | [view](https://github.com/KillianFrappartDev/SoftwareCraftmanship/blob/master/Algorithms/isPower.ts) |
+| Is Prime | Fundamentals | Typescript | O(sqrt(n)) | Done ✅ | [view](https://github.com/KillianFrappartDev/SoftwareCraftmanship/blob/master/Algorithms/isPrime.ts) |
 | Partitions | Advanced | Python | O(n²) | WiP 🚧 | [view](https://github.com/KillianFrappartDev/SoftwareCraftmanship/blob/master/Algorithms/integer_partition.py) |
 
 
