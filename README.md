@@ -19,7 +19,7 @@
 | Singleton | Fundamentals | Typescript | Creational | Done ✅ | [View](https://github.com/KillianFrappartDev/SoftwareCraftmanship/blob/master/DesignPatterns/src/singleton.ts) |
 | Builder | Fundamentals | Typescript | Creational | Done ✅ | [View](https://github.com/KillianFrappartDev/SoftwareCraftmanship/blob/master/DesignPatterns/src/builder.ts) |
 | Factory | Fundamentals | Typescript | Creational | Done ✅ | [View](https://github.com/KillianFrappartDev/SoftwareCraftmanship/blob/master/DesignPatterns/src/factory.ts) |
-| Observer | Intermediate | Typescript | Behavioral | WiP 🚧 | [View](https://github.com/KillianFrappartDev/SoftwareCraftmanship/blob/master/DesignPatterns/src/observer.ts) |
+| Observer | Intermediate | Typescript | Behavioral | Done ✅ | [View](https://github.com/KillianFrappartDev/SoftwareCraftmanship/blob/master/DesignPatterns/src/observer.ts) |
 
 
 <h2 id="data-structures">Data Structures</h2>

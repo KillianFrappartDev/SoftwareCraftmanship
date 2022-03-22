@@ -1,42 +1,30 @@
-class Observer {
-    private _subscribers: Subscriber[];
-    private _data: string;
+class Server {
+    private _subscribers: Smartphone[];
     
     constructor() {
         this._subscribers = [];
-        this._data = 'Init';
     }
 
-    get data() { return this._data; }
-    
-    set data(data: string) {
-        this._data = data;
-        for (const subscriber of this._subscribers) {
-            subscriber.update();
-        }
+    public update() { 
+        console.log("Server updated!"); 
+        for (const subscriber of this._subscribers) { subscriber.notify(); }
     }
-
-    public addSubscriber(subscriber: Subscriber) { this._subscribers.push(subscriber); }
+    public addSubscriber(subscriber: Smartphone) { this._subscribers.push(subscriber); }
 }
-class Subscriber {
-    private _observer: Observer;
-    private _data: string;
+class Smartphone {
+    private name: string;
     
-    constructor(observer: Observer) {
-        this._observer = observer;
-        this._data = observer.data;
-        this._observer.addSubscriber(this);
+    constructor(name: string) {
+        this.name = name;
     }
     
-    get data() { return this._data; }
-    
-    public update() { this._data = this._observer.data; }
+    public notify() { console.log(`Device: ${this.name} got notied of a server update.`); }
 }
 
-const observer = new Observer();
-const sub1 = new Subscriber(observer);
-const sub2 = new Subscriber(observer);
-console.log(sub1.data, sub2.data);
-observer.data = "Test";
-console.log(sub1.data, sub2.data);
+const server = new Server();
+const android = new Smartphone('Android');
+const ios = new Smartphone('IOS');
 
+server.addSubscriber(android);
+server.addSubscriber(ios);
+server.update();
